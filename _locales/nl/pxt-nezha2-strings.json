@@ -22,8 +22,8 @@
     "nezhaV2.ServoMotionMode.CW|block": "met de klok mee",
     "nezhaV2.ServoMotionMode.CCW|block": "tegen de klok in",
 
-    "nezhaV2.VerticallDirection.Up|block": "vooruit",
-    "nezhaV2.VerticallDirection.Down|block": "achteruit",
+    "nezhaV2.VerticallDirection.Up|block": "voor",
+    "nezhaV2.VerticallDirection.Down|block": "achter",
 
     "nezhaV2.move|block": "stel %motor in om met %speed \\% snelheid %direction te draaien gedurende %value %mode ||%isDelay ",
     "nezhaV2.moveToAbsAngle|block": "stel %motor in om via %turnMode naar hoek %angle te draaien ||%isDelay ",
